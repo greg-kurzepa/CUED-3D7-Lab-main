@@ -1,0 +1,12 @@
+mesh size 5, meaning 829 elements
+Maximum Von Mises stress is 160.51875456204803MPa
+
+y=0
+Howland: -1.254
+Simulation: -0.39851824529595525
+0.6822023562233211
+
+x=0
+Howland: 3.351
+Simulation: 2.3138547689125626
+0.30950320235375633

@@ -1,0 +1,4 @@
+Average FEM solution duration: 0.10031971533438384 seconds
+Point C: Mindlin 3.94, FE 0.9620133021022503, Error 0.7558341872836929
+Point D: Mindlin 0.59, FE 0.8423684584485103, Error -0.4277431499127293
+Maximum Von Mises stress is 0.350260598040356 MPa

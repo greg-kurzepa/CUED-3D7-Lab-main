@@ -1,0 +1,12 @@
+h_min 0.7, meaning 987 elements
+Maximum Von Mises stress is 175.09173023119098MPa
+
+y=0
+Howland: -1.254
+Simulation: -1.0456644860356603
+0.16613677349628364
+
+x=0
+Howland: 3.351
+Simulation: 3.0939938536738802
+0.0766953584977976
