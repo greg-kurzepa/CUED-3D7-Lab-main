@@ -1,0 +1,29 @@
+- OPTIMISE MESH (CELL COUNT & SIZE DISTRIBUTION)
+- EXAMINE CONVERGENCE (assume convergence rate decreases with accuracy for each experiment)
+
+3 points (3 iterations) for each 
+- measure gradient, convergence when gradient is small enough
+- which setup has fastest convergence?
+- say something about convergence rate (what parameter? (what y axis)? and relative to what (what x axis)? increse in number of elements? computation time? discuss in report. computation time is probably the best metric.)
+- but know that on other hardware, computation time might scale differently.
+-->> plot on BOTH computation time AND element count axes
+
+setups to use
+REFERENCE linear shape fn, large cell count, quadratic cell distribution
+TESTS: optimising for cell size distribution. keep cell count roughly constant.
+- quadratic shape fn, small cell count:
+	- logarithmic shape distribution
+	- quadratic shape distribution
+	- cubic shape distribution
+	- something else (literature review?)
+discuss adaptive re-meshing? cite https://core.ac.uk/download/pdf/82375161.pdf
+
+https://www.linkedin.com/advice/0/how-can-you-choose-right-element-type-size
+- check mesh quality (regular element shape, low aspect ratios, appropriate mesh density, smooth element size transitions, +ve jacobian values, alignment of elements with boundaries
+- mesh sensitivity (convergence) analysis
+
+progression in elements:
+- 500
+- 2 000
+- 8 000
+- 16 000?
