@@ -1,3 +1,7 @@
+# Technical Report
+
+The technical report is at `FTR_3D7_Greg_Kurzepa_gsk35_2024.pdf`. The coursework description is given below.
+
 # CUED Finite Element Methods (3D7) Lab
 
 This is the laboratory coursework activity for the Finite Element Course
